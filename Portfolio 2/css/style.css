@@ -1,0 +1,16 @@
+/* Color Scheme
+    Black: rgb(10, 9, 8);
+    Dark Red: rgb(73, 17, 28);
+    White: rgb(253, 255, 252);
+    Grey: rgb(83, 92, 101);
+    Blue: rgb(13, 56, 89);
+*/ 
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+
+body{
+    background-color: rgb(10, 9, 8);
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: rgb(252,255,252);
+}
